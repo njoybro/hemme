@@ -1,4 +1,4 @@
-Palindrome Java Program Using StringJava
+
 import java.util.Scanner;
 class Palindrome
 {
